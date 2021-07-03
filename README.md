@@ -1,4 +1,4 @@
-# 2021年同学会会抽奖程序
+# Class Begin 抽奖小程序
 
 [demo](https://321jr.github.io/lottery/)
 
