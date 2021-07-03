@@ -37,7 +37,7 @@ var member = [
   },
   {
     "phone": "No.0018",
-    "name": "周珊"
+    "name": "王慧琳"
   },
   {
     "phone": "No.0318",
@@ -69,7 +69,7 @@ var member = [
   },
   {
     "phone": "No.2681",
-    "name": "罗映雪"
+    "name": "陈沁"
   },
   {
     "phone": "No.4024",
@@ -77,74 +77,14 @@ var member = [
   },
   {
     "phone": "No.0463",
-    "name": "待定"
+    "name": "李墨"
   },
   {
     "phone": "No.2423",
-    "name": "待定"
+    "name": "王彦博"
   },
   {
     "phone": "No.5357",
-    "name": "待定"
-  },
-  {
-    "phone": "No.8751",
-    "name": "待定"
-  },
-  {
-    "phone": "No.0737",
-    "name": "待定"
-  },
-  {
-    "phone": "No.5959",
-    "name": "待定"
-  },
-  {
-    "phone": "No.8909",
-    "name": "⌒待定↓"
-  },
-  {
-    "phone": "No.8441",
-    "name": "待定"
-  },
-  {
-    "phone": "No.1746",
-    "name": "待定"
-  },
-  {
-    "phone": "No.2856",
-    "name": "待定"
-  },
-  {
-    "phone": "No.6703",
-    "name": "待定"
-  },
-  {
-    "phone": "No.9092",
-    "name": "待定"
-  },
-  {
-    "phone": "No.3539",
-    "name": "待定"
-  },
-  {
-    "phone": "No.7180",
-    "name": "待定"
-  },
-  {
-    "phone": "No.3679",
-    "name": "待定"
-  },
-  {
-    "phone": "No.5131",
-    "name": "待定"
-  },
-  {
-    "phone": "No.4146",
-    "name": "待定"
-  },
-  {
-    "phone": "No.2812",
-    "name": "待定"
+    "name": "甘辛"
   }
 ]
