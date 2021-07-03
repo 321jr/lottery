@@ -1,6 +1,6 @@
-# N年前写的年会抽奖程序
+# 2021年同学会会抽奖程序
 
-[demo](https://fouber.github.io/lottery/)
+[demo](https://321jr.github.io/lottery/)
 
 
 
